@@ -27,7 +27,7 @@
     <a href="https://www.linkedin.com/in/julia-batoro-750098194/"><img src="https://img.shields.io/badge/LinkedIn-30302f?style=flat-square&logo=linkedin" alt="" srcset=""></a>
 </div>
 <br>
-<a href="https://github.com/Clivassy"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZhOWMybm8wcDk5cGIzMXgzeWI2ZXN2eDZ6NDN2dHJwN2hsZWJiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="40%" align="right" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="Coding GIF">
+<a href="https://github.com/Clivassy"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzR0bnE5M2swY3I3c2Z2cHQ0YmlscHh5azZ1azk3dTI3aGlvbGlvayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="40%" align="right" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="Coding GIF">
 </a>
 <ul>
     <li>💻 Freelance Software Engineer and <a href="https://42.fr/en/homepage/">42 School</a> Alumni</li>
