@@ -59,6 +59,12 @@
 <p align="left"> <a href="https://discord.com/users/Julia_#0532" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Clivassy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/julia-batoro-750098194/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Clivassy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Clivassy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Clivassy&theme=dracula&column=-1&,PullRequest,Repositories,Commits,Issues" alt="Clivassy" /></a> </p>
 <div align="center">
 <h2>Quote of the day</h2>
